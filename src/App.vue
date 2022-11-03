@@ -154,6 +154,8 @@ h3 {
   border-radius: 10px;
   padding: 2rem;
   width: 120%;
+  -webkit-box-shadow: 5px 5px 18px 3.5px #000000;
+  box-shadow: 5px 5px 18px 3.5px #000000;
 }
 
 .quiz-info {

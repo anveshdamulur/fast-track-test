@@ -1,116 +1,106 @@
 {
-    "response_code": 0,
-    "results": [
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the world&#039;s most expensive spice by weight?",
-            "correct_answer": 2,
-            "options": ["Cinnamon", "Cardamom", "Saffron", "Vanilla"],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What does a milliner make and sell?",
-            "correct_answer": 1,
-            "options": ["Shoes", "Hats", "Belts", "Shirts"],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "A doctor with a PhD is a doctor of what?",
-            "correct_answer": 3,
-            "options": [
-                "Psychology",
-                "Phrenology",
-                "Physical Therapy",
-                "Philosophy"
-            ],
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the worlds most expensive spice by weight?",
+      "correct_answer": 2,
+      "options": ["Cinnamon", "Cardamom", "Saffron", "Vanilla"],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does a milliner make and sell?",
+      "correct_answer": 1,
+      "options": ["Shoes", "Hats", "Belts", "Shirts"],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A doctor with a PhD is a doctor of what?",
+      "correct_answer": 3,
+      "options": ["Psychology", "Phrenology", "Physical Therapy", "Philosophy"],
 
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Scotch whisky and Drambuie make up which cocktail?",
-            "correct_answer": 3,
-            "options": [
-                "Screwdriver",
-                "Sex on the Beach",
-                "Manhattan",
-                "Rusty Nail"
-            ],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What was the destination of the missing flight MH370?",
-            "correct_answer": 0,
-            "options": ["Beijing", "Kuala Lumpur", "Singapore", "Tokyo"],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What alcoholic drink is mainly made from juniper berries?",
-            "correct_answer": 0,
-            "options": ["Gin", "Vodka", "Rum", "Tequila"],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is a dead mall?",
-            "correct_answer": 3,
-            "options": [
-                "A mall with no stores",
-                "A mall that has been condemed",
-                "A mall after business hours",
-                "A mall with high vacancy rates or low consumer foot traffic"
-            ],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "When did the website &quot;Facebook&quot; launch?",
-            "correct_answer": 1,
-            "options": ["2005", "2004", "2003", "2006"],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
-            "correct_answer": 2,
-            "options": ["Bone", "Liver", "Pancreatic", "Stomach"],
-            "selected": null
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
-            "correct_answer": 2,
-            "options": [
-                "Post hoc ergo propter hoc",
-                "Tu quoque",
-                "Ad hominem",
-                "Argumentum ad populum"
-            ],
-            "selected": null
-        }
-    ]
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Scotch whisky and Drambuie make up which cocktail?",
+      "correct_answer": 3,
+      "options": ["Screwdriver", "Sex on the Beach", "Manhattan", "Rusty Nail"],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the destination of the missing flight MH370?",
+      "correct_answer": 0,
+      "options": ["Beijing", "Kuala Lumpur", "Singapore", "Tokyo"],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What alcoholic drink is mainly made from juniper berries?",
+      "correct_answer": 0,
+      "options": ["Gin", "Vodka", "Rum", "Tequila"],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a dead mall?",
+      "correct_answer": 3,
+      "options": [
+        "A mall with no stores",
+        "A mall that has been condemed",
+        "A mall after business hours",
+        "A mall with high vacancy rates or low consumer foot traffic"
+      ],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the website &quot;Facebook&quot; launch?",
+      "correct_answer": 1,
+      "options": ["2005", "2004", "2003", "2006"],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+      "correct_answer": 2,
+      "options": ["Bone", "Liver", "Pancreatic", "Stomach"],
+      "selected": null
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+      "correct_answer": 2,
+      "options": [
+        "Post hoc ergo propter hoc",
+        "Tu quoque",
+        "Ad hominem",
+        "Argumentum ad populum"
+      ],
+      "selected": null
+    }
+  ]
 }
