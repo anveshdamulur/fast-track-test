@@ -42,7 +42,7 @@ const displayNumOfQuestions = () => {
   if (currentQuestion.value == questions.value.length) {
     return;
   }
-  displayNum = ` Currently at question ${currentQuestion.value} of
+  displayNum = ` Currently at question ${currentQuestion.value + 1} of
             ${questions.value.length}`;
   return displayNum;
 };
