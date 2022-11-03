@@ -21,10 +21,10 @@ const score = computed(() => {
 });
 const checkScore = (scr) => {
   let status = '';
-  if (scr < 5) {
+  if (scr <= 5) {
     status = 'Bad Luck😔. You need to work hard for better results!!!';
   }
-  if (scr >= 5 && arg <= 8) {
+  if (scr > 5 && scr <= 8) {
     status = 'Keep working 📈 for best results !!!';
   }
   if (scr > 8) {
@@ -227,6 +227,7 @@ button {
 
 button:disabled {
   opacity: 0.5;
+  cursor: not-allowed;
 }
 
 h2 {
