@@ -106,7 +106,7 @@ const nextQuestion = () => {
             ? 'FINISH'
             : getCurrentQuestion.selected == null
             ? 'Select an option'
-            : 'Next Question'
+            : 'Go to next'
         }}
       </button>
     </section>
