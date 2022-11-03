@@ -7,9 +7,9 @@ Created simple quiz by using Vue js.
 
 # Usage
 
-1.npm create vite
-2.npm install (it will install all dev dependencies)
-3.npm run start:dev 
+  1. npm create vite
+  2. npm install (it will install all dev dependencies)
+  3. npm run start:dev 
 
 # Output
 
