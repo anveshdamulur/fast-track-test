@@ -10,9 +10,7 @@ const currentQuestion = ref(0);
 const score = computed(() => {
   let value = 0;
   questions.value.map((q) => {
-    console.log(q);
     if (q.selected != null && q.correct_answer == q.selected) {
-      console.log('correct');
       value++;
     }
   });
